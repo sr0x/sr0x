@@ -1,6 +1,6 @@
 {
-  "name": "srox",
-  "version": "1.1.2",
+  "name": "sr0x",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
